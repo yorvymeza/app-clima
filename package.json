@@ -1,0 +1,17 @@
+{
+  "name": "app-clima1",
+  "version": "1.0.0",
+  "description": "curso de una API del clima",
+  "main": "index.js",
+  "scripts":{
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yorvy meza",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "forecastio": "^2.0.0",
+    "morgan": "^1.9.1"
+  }
+}
